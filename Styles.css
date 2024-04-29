@@ -8,11 +8,11 @@
 }
 @font-face {
     font-family: 'ns5';
-    src: url('/Fonts/ns5.otf');
+    src: url('ns5.otf');
 }
 @font-face {
     font-family: 'ns5bold';
-    src: url(/Fonts/ns5bold.otf);
+    src: url('ns5bold.otf');
 }
 
 /* Navegation Bar Css*/
